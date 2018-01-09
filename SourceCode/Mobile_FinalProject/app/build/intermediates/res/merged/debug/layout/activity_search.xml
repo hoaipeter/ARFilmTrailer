@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#3E50B4">
+
+    <android.support.v7.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingRight="@dimen/abc_text_size_medium_material"
+        android:paddingLeft="18sp"
+        android:paddingTop="@dimen/abc_text_size_medium_material">
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="25dp"
+            android:text="Trailer Name"
+            android:id="@+id/textView_TrailerName"
+            android:textSize="@dimen/abc_text_size_medium_material"
+            android:textColor="#FFFFFF"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="20dp"
+            android:background="@android:color/darker_gray"
+            android:layout_marginRight="25dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+            android:layout_marginRight="30dp"
+            android:text="Limit"
+            android:id="@+id/textView_VideoLimit"
+            android:textSize="@dimen/abc_text_size_medium_material"
+            android:textColor="#FFFFFF"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="20dp"
+            android:background="@android:color/darker_gray"
+            android:layout_marginRight="20dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+            android:text="Search"
+            android:id="@+id/textView_Search"
+            android:textSize="@dimen/abc_text_size_medium_material"
+            android:textColor="#FFFFFF"/>
+
+    </android.support.v7.widget.LinearLayoutCompat>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="18sp"
+        android:layout_marginRight="18sp"/>
+
+    <android.support.v7.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingRight="18sp"
+        android:paddingLeft="@dimen/abc_text_size_medium_material">
+
+        <EditText
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:hint="Enter name..."
+            android:textColorHint="@color/abc_secondary_text_material_light"
+            android:id="@+id/search_input"
+            android:singleLine="true"
+            android:layout_marginRight="25dp"
+            android:textColor="@color/abc_primary_text_disable_only_material_dark"
+            android:allowUndo="true" />
+
+        <EditText
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:hint="1-20"
+            android:textColorHint="@color/abc_secondary_text_material_light"
+            android:id="@+id/search_limit"
+            android:textColor="#FFFFFF"
+            android:inputType="number"/>
+
+        <ImageButton
+            android:layout_marginLeft="50dp"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:id="@+id/btn_search"
+            android:clickable="true"
+            android:layout_gravity="center"
+            android:background="@drawable/ic_youtube_search"/>
+
+    </android.support.v7.widget.LinearLayoutCompat>
+
+    <ListView
+        android:layout_marginTop="10dp"
+        android:id="@+id/videos_found"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:dividerHeight="5dp"
+        android:background="#FFFFFF"
+        android:longClickable="true">
+    </ListView>
+
+</LinearLayout>

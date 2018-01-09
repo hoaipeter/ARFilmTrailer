@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="storks" size="50.000000 74.110672" />
+    <ImageTarget name="troll" size="50.000000 32.486526" />
+    <ImageTarget name="thewildlife" size="50.000000 77.198364" />
+    <ImageTarget name="kickboxer" size="50.000000 73.783783" />
+    <ImageTarget name="kubo" size="50.000000 74.074074" />
+    <ImageTarget name="drstranger" size="50.000000 74.023155" />
+    <ImageTarget name="justicleague" size="50.000000 25.000000" />
+    <ImageTarget name="suicidesquad" size="50.000000 74.257423" />
+  </Tracking>
+</QCARConfig>

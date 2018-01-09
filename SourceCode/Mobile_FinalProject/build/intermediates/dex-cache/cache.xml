@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\picasso-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.4.0_8f0bed1f4d64bb077796bbbb4ca0b26213f39ba5\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-core-2.1.3_8711ec6cedeb51d52e00bad05d59743e4bc5bb7c\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="06ecb6683e5cfac56a5fa62541bfe40f4428c5ea">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-client-android-1.20.0_af8de1776ced67a42ce1def838df19d272f8a6b2\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_be5f234081f9b9a8e15f6f23e545c2eaefcc9f2e\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="332a6241811b8c12127265393e34558d7bd0e599">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-http-client-jackson2-1.20.0_4bb824b456e230ab9fca4898c01fc30d59299269\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="022c751f736f9e3af13168bcc2ec76863fc90839">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-oauth-client-1.20.0_712dbd46c744654e64a8d5320bab837558f629ac\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ede47fda782b3211b0ce8e802d11073946cf3fd5">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c5b4dbfa6e715d88e290c76d4c49b4e19c279e75\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\google-http-client-1.20.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="365f575d25fd6e000a36597ea787b2528af696f8">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-http-client-1.20.0_f8469b1d792321d25013e41d5378a10d81219f8a\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_ff86d3eecde0287157a505444a628db5d2affebb\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\VuforiaMedia.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="66c557cc3120f5686a1f5f2d10d8813e6b63223d">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\VuforiaMedia_099c9fb500065fa62c73e0816feb772c85a07b81\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fa01f11d4e9354d933089882f93121398eab7105">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8f3717492d56c5486b568bb999deec4c02fbf1d3\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\google-api-services-youtube-v3-rev137-1.20.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea73d4c89ca1e41f0af21c40bb787a5a3a134364">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-services-youtube-v3-rev137-1.20.0_5b2a8254db6bce51495548396abb0cdaf2b86964\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\Vuforia.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="500d47b88780a30e82f64e8fbcc96a2032edaab9">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\Vuforia_2c3195882d0fdbd2dbbef08dabde00fad17bad48\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d9781cdc1ab5e0e0631ff0adbd549f98fe5ebdfd">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-http-client-android-1.20.0_a5582c0f451f2129767c6b4365b5119f31b407cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\TUNG HIEP\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_1edba2d09df13080dd35b28840a0c81b3b4732d5\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_f564eed7b28a9abc0ec6cff1f6bc6101c9e289e4\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_86e4a33a20b49d26f8d5a63d2ab75ab5a96ab618\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\unity-classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="93fa9a51dbd4f87bb42ef88062eb2deb4ff62c23">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_83e564254811ecefc69da042f2bd80c38248e728\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\QCARUnityPlayer.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03e3b90ea7fc2857313d3b26438001fdc6e9836e">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\QCARUnityPlayer_3cfb0ee4f1ca37451f491e3027d7735d70ab59fe\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\jsr305-1.3.9.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsr305-1.3.9_aaf301b5476dcc430f62cfecb5045688e11448be\classes.dex" />
+    </item>
+    <item
+        jar="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\libs\google-api-client-1.20.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b26f611c5c1fbf5bcfe7fcdaff4926fcdfd1f304">
+        <dex dex="D:\HOC TAP\Mobile_FinalProject_NOPBAI\SourceCode\Mobile_FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-client-1.20.0_52eb27d36c963d52a7b05e04370e44b0725e4c3f\classes.dex" />
+    </item>
+
+</items>
