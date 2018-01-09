@@ -21,3 +21,5 @@ We decide to make an app about helping people to find a trailer of a movie easie
 The first way to input name of the movie and simple it will give you the trailer.
 The second way is using augmented reality to scan a poster and give user the trailer ( This feature only support the movie that are listed in Misc Folder )
 For detail and more about our features, please see the report in the Report Folder.
+
+Demo: https://www.youtube.com/watch?v=pK_1qOYu54o
